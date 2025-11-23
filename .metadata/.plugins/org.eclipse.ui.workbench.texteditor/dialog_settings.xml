@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="doO"/>
+			<item value="Tesseract"/>
+			<item value="img"/>
+			<item value="setDatapath"/>
+			<item value="req"/>
+			<item value="RequestBody"/>
+			<item value="CAtegorymap"/>
+			<item value="DB"/>
+			<item value="checkReview"/>
+			<item value="fastapiclient.analyzeReview"/>
+			<item value="auth -&gt; auth"/>
+			<item value="AuthResponse"/>
+			<item value="lombok"/>
+		</list>
+	</section>
+</section>

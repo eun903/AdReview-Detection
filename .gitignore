@@ -1,16 +1,47 @@
+# ===========================
 # IDE files
-.metadata/
-.idea/
-.vscode/
-*.iml
+# ===========================
+.metadata/      # Eclipse 등 IDE 설정 폴더, 올리고 싶으면 주석 처리
+.idea/          # IntelliJ
+.vscode/        # VSCode
+*.iml           # IntelliJ 프로젝트 파일
 
-# Build files
-target/
-build/
+# ===========================
+# Build / 배포 파일
+# ===========================
+target/         # Java 빌드 산출물
+build/          # React / Node 빌드 산출물
+dist/           # 배포 폴더
 
-# OS files
+# ===========================
+# OS / 시스템 파일
+# ===========================
 .DS_Store
 Thumbs.db
 
-# Personal workspace
-p-workspace/
+# ===========================
+# Python / FastAPI
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+*.env
+
+# ===========================
+# Node / React
+# ===========================
+node_modules/
+.npm/
+.yarn/
+.cache/
+
+# ===========================
+# Personal workspace (원하는 폴더는 올리도록 주석 처리)
+# ===========================
+# p-workspace/
+# s-workspace/
+# React/
