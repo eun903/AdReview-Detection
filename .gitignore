@@ -1,0 +1,16 @@
+# IDE files
+.metadata/
+.idea/
+.vscode/
+*.iml
+
+# Build files
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal workspace
+p-workspace/
